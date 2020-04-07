@@ -42,13 +42,11 @@ public class Calenderdemo {
 
 	
 	System.out.println("Hello");
-<<<<<<< HEAD
-	System.out.println("how are you");
-=======
+
 	System.out.println("How are you");
 	System.out.println("How is everyone");
+	System.out.println("How is corona");
 	
->>>>>>> a1bde38afa3ba8ce5aa2e38a4c502eeec9afe962
 	
 	}
 
