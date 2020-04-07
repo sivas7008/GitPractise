@@ -26,6 +26,7 @@ public class Autosuggesttwo {
 		ele.sendKeys(Keys.ARROW_DOWN);
 		ele.sendKeys(Keys.ENTER);
 		System.out.println(ele.getText());
+		System.out.println("wwww");
 
 	}
 
