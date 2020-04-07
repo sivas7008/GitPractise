@@ -21,6 +21,8 @@ public class AutosuggestDemo {
 		fromCity.sendKeys(Keys.ARROW_DOWN);
 		fromCity.sendKeys(Keys.ARROW_DOWN);
 		fromCity.sendKeys(Keys.ENTER);
+		
+		System.out.println("hit demo");
 	}
 
 }
