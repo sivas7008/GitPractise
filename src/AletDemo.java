@@ -8,6 +8,7 @@ public class AletDemo {
 	public static void main(String args[]) throws Exception
 	{
 		System.out.println("hit demo");
+		System.out.println("hit demo");
 		
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\Users\\Siva\\Desktop\\selenium\\Java projects\\SeleniumTutorials\\chromedriver.exe");
